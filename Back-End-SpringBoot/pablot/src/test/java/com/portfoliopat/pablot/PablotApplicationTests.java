@@ -1,4 +1,4 @@
-package com.miproyectofinal.pablot;
+package com.portfoliopat.pablot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
